@@ -1,0 +1,14 @@
+{
+    "name": "Stripe",
+    "type": "cloud_nodejs",
+    "repoUrl": "https://github.com/feedhenry/fh-connector-stripe-cloud.git",
+    "repoBranch": "refs/heads/master",
+    "image": "public/img/cloud_plugins/stripe.png",
+    "category": "eCommerce",
+    "configuration": [
+        {
+            "desc": "Your Stripe API Key",
+            "varName": "STRIPE_API_KEY"
+        }
+    ]
+}
