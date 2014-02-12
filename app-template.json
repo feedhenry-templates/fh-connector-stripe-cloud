@@ -1,6 +1,7 @@
 {
     "name": "Stripe",
     "type": "cloud_nodejs",
+    "docs": "https://raw2.github.com/feedhenry/fh-connector-stripe-cloud/master/README.md",
     "repoUrl": "https://github.com/feedhenry/fh-connector-stripe-cloud.git",
     "repoBranch": "refs/heads/master",
     "image": "public/img/cloud_plugins/stripe.png",
