@@ -1,4 +1,5 @@
 {
+    "id": "stripe-cloud",
     "name": "Stripe",
     "type": "cloud_nodejs",
     "docs": "https://raw2.github.com/feedhenry/fh-connector-stripe-cloud/master/README.md",
