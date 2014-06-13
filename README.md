@@ -6,7 +6,7 @@ The FeedHenry Stripe Connector. For more information on Stripe see: [https://git
 
 # Group Stripe Connector API
 
-# Stripe [/cloud/paypal]
+# Stripe [/cloud/stripe]
 
 Add customer
 
