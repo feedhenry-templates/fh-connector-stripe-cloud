@@ -1,18 +1,16 @@
-# THIS REPO IS NO LONGER MAINTAINED
-
 FORMAT: 1A
 
-## FeedHenry Stripe Connector
+# [UNMAINTAINED] FeedHenry Stripe Connector
 
 The FeedHenry Stripe Connector. For more information on Stripe see: [https://github.com/stripe/stripe-node](https://github.com/stripe/stripe-node).
 
-## Group Stripe Connector API
+# Group Stripe Connector API
 
-## Stripe [/cloud/stripe]
+# Stripe [/cloud/stripe]
 
 Add customer
 
-### Stripe [POST] 
+## Stripe [POST] 
 
 Authenticates with Stripe and adds a customer
 
