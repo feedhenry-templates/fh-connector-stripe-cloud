@@ -26,3 +26,22 @@ Authenticates with Stripe and adds a customer
             {
               "ok": "true"
             }
+
+# Build
+```
+npm install
+```
+
+# Tests
+
+All the tests are in the "test/" directory. The cloud app is using mocha as the test runner. 
+
+To run:
+* unit the tests:
+```
+npm test
+```
+* coverage report for unit tests:
+```
+npm run coverage
+```

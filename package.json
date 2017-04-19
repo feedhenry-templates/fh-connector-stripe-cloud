@@ -31,6 +31,7 @@
   "main": "application.js",
   "scripts": {
     "start": "node application.js",
-    "test": "grunt unit"
+    "test": "grunt test",
+    "coverage": "grunt coverage"
   }
 }
